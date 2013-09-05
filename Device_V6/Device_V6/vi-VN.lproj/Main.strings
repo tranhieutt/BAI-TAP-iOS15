@@ -1,0 +1,24 @@
+
+/* Class = "IBUISearchBar"; 7eM-E2-2UZ.scopeButtonTitles[0] = "All"; ObjectID = "7eM-E2-2UZ"; */
+"7eM-E2-2UZ.scopeButtonTitles[0]" = "All";
+
+/* Class = "IBUISearchBar"; 7eM-E2-2UZ.scopeButtonTitles[1] = "iOS"; ObjectID = "7eM-E2-2UZ"; */
+"7eM-E2-2UZ.scopeButtonTitles[1]" = "iOS";
+
+/* Class = "IBUISearchBar"; 7eM-E2-2UZ.scopeButtonTitles[2] = "Android"; ObjectID = "7eM-E2-2UZ"; */
+"7eM-E2-2UZ.scopeButtonTitles[2]" = "Android";
+
+/* Class = "IBUISearchBar"; 7eM-E2-2UZ.scopeButtonTitles[3] = "WP8"; ObjectID = "7eM-E2-2UZ"; */
+"7eM-E2-2UZ.scopeButtonTitles[3]" = "WP8";
+
+/* Class = "IBUIViewController"; title = "Detail"; ObjectID = "Ah7-4n-0Wa"; */
+"Ah7-4n-0Wa.title" = "Detail";
+
+/* Class = "IBUILabel"; text = "Detail view content goes here"; ObjectID = "Lei-5M-9Gs"; */
+"Lei-5M-9Gs.text" = "Detail view content goes here";
+
+/* Class = "IBUISearchDisplayController"; searchResultsTitle = "DONE"; ObjectID = "b5b-jV-bbv"; */
+"b5b-jV-bbv.searchResultsTitle" = "DONE";
+
+/* Class = "IBUITableViewController"; title = "Master"; ObjectID = "pGg-6v-bdr"; */
+"pGg-6v-bdr.title" = "Master";
